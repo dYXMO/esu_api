@@ -1,5 +1,8 @@
 # esu_api
-版本:v0.2.1
+
+[![](https://img.shields.io/discord/806747503604269077.svg?logo=discord&colorB=7289DA)](https://discord.gg/KJemYnwVqB)
+
+版本:v0.3.0
 
 随机恶俗词汇api
 
@@ -7,13 +10,13 @@
 
 ### 更新内容
 
-1.化简为繁 加了PHP框架(其实是为了以后更多功能做准备awa)
-
-2.新增错误页面
+1.新增文档页面
 
 ### 说明
 
 请求地址`/index.php/api`
+
+文档`/index.php/doc`
 
 恶俗词汇在`/list.php`请自己添加
 
